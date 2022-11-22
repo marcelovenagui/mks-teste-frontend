@@ -1,0 +1,58 @@
+.header{
+    background: #0F52BA;
+    position: absolute;
+    width: 1440px;
+    height: 101px;
+    left: 0px;
+    top: 0px;
+    display: inline-block;
+}
+
+.header>h1{
+    position: absolute;
+    left: 4.51%;
+    right: 86.6%;
+    top: 2.73%;
+    bottom: 92.97%;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 19px;
+    color: #FFF;
+}
+
+.header>h3{
+    position: absolute;
+    left: 11.46%;
+    right: 74.65%;
+    top: 11.39%;
+    bottom: 91.31%;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 50;
+    font-size: 20px;
+    line-height: 19px;
+    color: #FFF;
+    mix-blend-mode: normal;
+}
+
+.button{
+    position: absolute;
+    width: 90px;
+    height: 45px;
+    left: 1262px;
+    top: 29px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bolder;
+    font-size: 1em;
+}
+
+.button:hover{
+    cursor: pointer;
+    background: lightgrey;
+    transition: 0.5s;
+}
+
+
